@@ -1,0 +1,78 @@
+# 🚀 Programming Foundations: Level 1 (Theoretical Log)
+### **Instructor:** Eng. Mohammed Abu-Hadhoud
+### **Student:** Omar Mohamed
+### **Completion Date:** 2026-03-13
+
+This documentation records my mastery of the fundamental concepts of computer science. This stage was focused entirely on understanding "how computers work" and the logic of data representation before diving into any specific programming language syntax.
+
+---
+
+## 📊 Assessment Summary
+* **Total MCQ Questions:** 111 (Verified across 6 key assessment lessons).
+* **Practical Homework:** 17 Conceptual and Mathematical assignments.
+
+---
+
+## 📌 Lesson 1: The DIKW Pyramid
+* **Concept:** How computers process raw data into actionable wisdom.
+* **Assessment:** Passed **18 MCQ questions**.
+* **Homework:** Identified and documented 3 real-world examples (e.g., Hospital, Weather, Business) showing the transition from Data ➔ Information ➔ Knowledge ➔ Wisdom.
+
+## 📌 Lesson 2: CPU Architecture & External Components
+* **Concept:** Understanding the Von Neumann model and the physical connection between components.
+* **Assessment:** Passed **18 MCQ questions**.
+* **Homework:** Drew the "Interaction Circle" showing the relationship between Internal CPU units (ALU, CU) and External components (RAM, Storage, and I/O Devices).
+
+## 📌 Lesson 3: The Binary System
+* **Concept:** Base-2 logic and its role in digital storage.
+* **Assessment:** Passed **18 MCQ questions**.
+* **Homework:** Performed manual pen-and-paper conversions:
+    * Binary to Decimal: (e.g., $101101_2$ ➔ $45_{10}$).
+    * Decimal to Binary: (e.g., $156_{10}$ ➔ $10011100_2$).
+
+## 📌 Lesson 4: Storage Units & Clock Speeds
+* **Concept:** Units of measurement (Bit to Petabyte) and CPU frequency (Hertz).
+* **Assessment:** Passed **18 MCQ questions**.
+* **Homework:** Solved conversion problems (e.g., How many MBs are in 4TBs?) and calculated instruction cycles for different CPU speeds.
+
+## 📌 Lesson 5: Hexadecimal System
+* **Concept:** Base-16 as a shorthand for binary.
+* **Assessment:** Passed **16 MCQ questions**.
+* **Homework:** Practiced manual conversions between Hex and Decimal. Identified how Hex is used to simplify binary strings.
+
+## 📌 Lesson 6 & 7: The Nibble & Fast Mapping
+* **Concept:** The 4-bit Nibble and the speed-mapping technique (Binary ➔ Hex).
+* **Homework:** Completed a conversion table mapping all 16 possible nibbles to their corresponding Hex digits.
+
+## 📌 Lesson 8: Octal System
+* **Concept:** Understanding Base-8 (0-7).
+* **Assessment:** Passed **23 MCQ questions**.
+* **Homework:** Solved math exercises converting Octal numbers to Binary and vice versa.
+
+## 📌 Lesson 9: Programmer's Calculator
+* **Homework:** Used the "Programmer Mode" in the OS calculator to cross-check and verify all previous manual math assignments (Hex, Oct, Bin).
+
+## 📌 Lesson 10: Networking Fundamentals
+* **Concept:** Understanding how devices communicate and the infrastructure of the internet.
+* **Key Topics Covered:**
+    * **Network Types:** Distinguishing between LAN (Local Area Network) and WAN (Wide Area Network).
+    * **Physical Layer:** Understanding different connection types and cabling concepts.
+    * **Protocols:** Introduction to protocol naming and their roles (e.g., IP, MAC, and basic communication rules).
+* **Homework:** Mapped out a conceptual diagram showing the difference between a home network (LAN) and how it connects to the global internet (WAN).
+
+## 📌 Lesson 11, 12, 13 & 14: Programming Evolution
+* **Concept:** Understanding Low-level vs. High-level languages and the role of the Compiler vs. Interpreter.
+* **Homework:** Documented the conceptual lifecycle of a program (Source Code ➔ Compiler ➔ Object Code ➔ Linker ➔ Executable).
+
+## 📌 Lesson 15 & 16: Mathematical Logic & Precedence
+* **Concept:** Mastering the order of operations and logical operators (AND, OR, NOT).
+* **Homework:** Solved complex mathematical expressions on paper to determine the correct execution order (Precedence).
+
+## 📌 Lesson 17: Variables & Memory Concept
+* **Concept:** Understanding that variables are named locations in RAM.
+* **Homework:** Calculated the theoretical space required in memory for different data types (e.g., if an integer takes 4 bytes, how much space is needed for 10 integers?).
+
+---
+
+### 🏁 Learning Outcome
+I have successfully built a strong theoretical foundation. I understand how hardware manages data and how different numbering systems work. I am now ready to transition into learning the syntax of a specific programming language.
